@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/DevPortfolio/static/css/main.cc5ee037.css",
+    "main.js": "/DevPortfolio/static/js/main.7afcad10.js",
+    "static/css/64.bba8fa55.chunk.css": "/DevPortfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/DevPortfolio/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/DevPortfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/DevPortfolio/static/js/769.bda0d7b7.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/DevPortfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/SSIPMT.png": "/DevPortfolio/static/media/SSIPMT.c4c1e46437f51d87d073.png",
+    "static/media/Agustina.woff": "/DevPortfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/BigOHealth.png": "/DevPortfolio/static/media/BigOHealth.c32829b43e03eb72e903.png",
+    "static/media/V.png": "/DevPortfolio/static/media/V.cbd1a292facc28240aab.png",
+    "static/media/manOnTable.svg": "/DevPortfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/Udemy.png": "/DevPortfolio/static/media/Udemy.4836c4eef5d7a10b9c9e.png",
+    "static/media/Microsoft.png": "/DevPortfolio/static/media/Microsoft.92a8e5c12149037b4d3e.png",
+    "static/media/contactMailDark.svg": "/DevPortfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/DevPortfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/DevPortfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/saayaHealthLogo.webp": "/DevPortfolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/DevPortfolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/DevPortfolio/index.html",
+    "static/media/talksCardBack.svg": "/DevPortfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.cc5ee037.css.map": "/DevPortfolio/static/css/main.cc5ee037.css.map",
+    "main.7afcad10.js.map": "/DevPortfolio/static/js/main.7afcad10.js.map",
+    "64.bba8fa55.chunk.css.map": "/DevPortfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/DevPortfolio/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/DevPortfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/DevPortfolio/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc5ee037.css",
+    "static/js/main.7afcad10.js"
+  ]
+}
