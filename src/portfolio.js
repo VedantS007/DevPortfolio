@@ -26,7 +26,7 @@ const greeting = {
     "Combining 2 years of expertise in Program Management and Business analytics, I navigate complex projects with precision. Specializing in orchestrating seamless operations and extracting insights, I drive actionable strategies for transformative results and organizational success."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1VEc1A_4uOoieSVUOixAYAlF8OYOPa51t/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1fGKC9GUJ_hLgrZ1e5HjEDOWjYuRZeAXx/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
